@@ -1,1 +1,1 @@
-
+A Door Sensor is connected to bit 1 of portB, and an led is connected to bit 6 of port C. An AVR C program to monitor the door sensor and when door opens, LED turns ON and when door closes, LED turns OFF. And it is done by using Embedded C.
